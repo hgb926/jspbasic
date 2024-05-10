@@ -50,7 +50,7 @@ public class DancerSaveProcessServlet extends HttpServlet {
         }
         dancer.setGenres(genreList);
 
-        System.out.println("dancer = " + dancer);
+//        System.out.println("dancer = " + dancer);
 
         dancerList.add(dancer);
 
